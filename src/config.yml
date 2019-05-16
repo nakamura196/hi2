@@ -1,0 +1,14 @@
+image_path: src/data/images.xlsx
+metadata_path: src/data/metadata_edited.xlsx
+manifest_path: docs/iiif
+dump_path: docs/data
+prefix: "https://nakamura196.github.io/hi2"
+fields: [
+    "http://purl.org/dc/terms/identifier",
+    "http://purl.org/dc/terms/description",
+    # "http://purl.org/dc/terms/rights",
+    # "http://iiif.io/api/presentation/2#attributionLabel",
+    # "http://purl.org/dc/terms/isPartOf",
+    # "http://iiif.io/api/presentation/2#viewingDirection"
+]
+title: "史料集版面ギャラリー"
