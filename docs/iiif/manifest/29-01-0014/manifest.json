@@ -1,0 +1,3579 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/manifest.json",
+    "@type": "sc:Manifest",
+    "description": "豪・印・indonesia・英・仏",
+    "label": "『日本関係海外史料目録』・日本関係海外史料目録・14",
+    "metadata": [
+        {
+            "label": "ID",
+            "value": "29-01-0014"
+        },
+        {
+            "label": "Description/内容記述",
+            "value": "豪・印・indonesia・英・仏"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p1",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-001.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-001_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p2",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-002.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-002_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p3",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-003.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-003_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p4-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p4",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-004.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-004_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p5-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p5",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-005.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-005_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p6-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p6",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-006.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-006_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p7-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p7",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-007.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[7]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-007_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p8-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p8",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-008.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[8]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-008_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p9-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p9",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-009.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[9]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-009_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p10-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p10",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-010.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[10]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-010_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p11-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p11",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-011.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[11]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-011_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p12-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p12",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-012.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[12]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-012_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p13",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p13-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p13",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-013.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[13]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-013_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p14",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p14-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p14",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-014.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[14]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-014_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p15",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p15-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p15",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-015.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[15]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-015_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p16",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p16-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p16",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-016.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[16]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-016_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p17",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p17-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p17",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-017.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[17]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-017_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p18",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p18-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p18",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-018.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[18]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-018_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p19",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p19-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p19",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-019.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[19]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-019_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p20",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p20-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p20",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-020.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[20]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-020_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p21",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p21-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p21",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-021.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[21]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-021_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p22",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p22-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p22",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-022.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[22]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-022_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p23",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p23-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p23",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-023.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[23]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-023_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p24",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p24-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p24",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-024.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[24]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-024_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p25",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p25-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p25",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-025.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[25]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-025_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p26",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p26-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p26",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-026.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[26]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-026_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p27",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p27-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p27",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-027.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[27]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-027_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p28",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p28-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p28",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-028.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[28]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-028_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p29",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p29-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p29",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-029.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[29]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-029_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p30",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p30-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p30",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-030.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[30]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-030_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p31",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p31-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p31",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-031.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[31]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-031_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p32",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p32-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p32",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-032.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[32]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-032_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p33",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p33-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p33",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-033.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[33]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-033_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p34",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p34-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p34",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-034.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[34]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-034_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p35",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p35-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p35",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-035.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[35]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-035_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p36",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p36-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p36",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-036.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[36]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-036_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p37",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p37-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p37",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-037.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[37]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-037_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p38",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p38-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p38",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-038.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[38]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-038_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p39",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p39-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p39",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-039.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[39]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-039_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p40",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p40-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p40",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-040.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[40]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-040_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p41",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p41-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p41",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-041.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[41]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-041_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p42",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p42-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p42",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-042.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[42]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-042_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p43",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p43-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p43",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-043.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[43]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-043_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p44",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p44-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p44",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-044.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[44]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-044_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p45",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p45-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p45",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-045.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[45]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-045_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p46",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p46-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p46",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-046.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[46]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-046_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p47",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p47-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p47",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-047.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[47]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-047_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p48",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p48-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p48",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-048.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[48]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-048_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p49",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p49-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p49",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-049.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[49]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-049_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p50",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p50-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p50",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-050.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[50]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-050_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p51",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p51-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p51",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-051.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[51]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-051_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p52",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p52-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p52",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-052.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[52]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-052_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p53",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p53-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p53",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-053.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[53]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-053_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p54",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p54-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p54",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-054.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[54]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-054_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p55",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p55-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p55",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-055.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[55]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-055_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p56",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p56-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p56",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-056.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[56]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-056_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p57",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p57-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p57",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-057.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[57]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-057_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p58",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p58-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p58",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-058.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[58]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-058_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p59",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p59-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p59",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-059.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[59]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-059_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p60",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p60-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p60",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-060.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[60]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-060_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p61",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p61-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p61",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-061.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[61]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-061_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p62",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p62-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p62",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-062.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[62]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-062_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p63",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p63-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p63",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-063.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[63]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-063_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p64",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p64-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p64",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-064.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[64]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-064_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p65",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p65-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p65",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-065.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[65]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-065_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p66",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p66-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p66",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-066.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[66]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-066_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p67",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p67-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p67",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-067.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[67]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-067_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p68",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p68-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p68",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-068.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[68]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-068_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p69",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p69-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p69",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-069.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[69]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-069_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p70",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p70-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p70",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-070.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[70]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-070_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p71",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p71-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p71",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-071.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[71]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-071_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p72",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p72-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p72",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-072.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[72]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-072_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p73",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p73-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p73",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-073.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[73]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-073_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p74",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p74-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p74",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-074.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[74]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-074_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p75",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p75-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p75",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-075.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[75]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-075_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p76",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p76-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p76",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-076.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[76]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-076_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p77",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p77-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p77",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-077.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[77]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-077_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p78",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p78-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p78",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-078.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[78]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-078_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p79",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p79-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p79",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-079.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[79]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-079_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p80",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p80-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p80",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-080.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[80]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-080_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p81",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p81-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p81",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-081.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[81]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-081_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p82",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p82-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p82",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-082.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[82]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-082_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p83",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p83-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p83",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-083.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[83]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-083_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p84",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p84-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p84",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-084.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[84]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-084_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p85",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p85-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p85",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-085.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[85]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-085_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p86",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p86-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p86",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-086.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[86]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-086_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p87",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p87-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p87",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-087.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[87]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-087_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p88",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p88-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p88",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-088.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[88]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-088_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p89",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p89-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p89",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-089.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[89]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-089_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p90",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p90-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p90",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-090.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[90]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-090_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p91",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p91-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p91",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-091.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[91]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-091_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p92",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p92-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p92",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-092.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[92]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-092_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p93",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p93-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p93",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-093.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[93]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-093_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p94",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p94-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p94",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-094.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[94]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-094_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p95",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p95-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p95",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-095.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[95]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-095_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p96",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p96-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p96",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-096.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[96]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-096_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p97",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p97-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p97",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-097.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[97]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-097_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p98",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p98-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p98",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-098.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[98]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-098_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p99",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p99-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p99",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-099.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[99]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-099_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p100",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p100-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p100",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-100.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[100]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-100_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p101",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p101-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p101",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-101.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[101]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-101_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p102",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p102-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p102",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-102.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[102]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-102_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p103",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p103-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p103",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-103.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[103]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-103_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p104",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p104-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p104",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-104.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[104]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-104_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p105",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p105-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p105",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-105.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[105]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-105_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p106",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p106-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p106",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-106.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[106]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-106_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p107",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p107-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p107",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-107.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[107]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-107_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p108",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p108-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p108",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-108.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[108]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-108_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p109",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p109-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p109",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-109.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[109]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-109_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p110",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p110-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p110",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-110.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[110]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-110_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p111",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p111-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p111",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-111.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[111]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-111_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p112",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p112-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p112",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-112.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[112]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-112_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p113",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p113-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p113",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-113.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[113]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-113_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p114",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p114-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p114",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-114.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[114]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-114_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p115",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p115-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p115",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-115.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[115]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-115_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p116",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p116-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p116",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-116.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[116]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-116_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p117",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p117-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p117",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-117.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[117]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-117_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p118",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p118-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p118",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-118.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[118]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-118_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p119",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p119-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p119",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-119.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[119]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-119_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p120",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p120-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p120",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-120.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[120]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-120_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p121",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p121-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p121",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-121.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[121]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-121_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p122",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p122-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p122",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-122.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[122]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-122_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p123",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p123-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p123",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-123.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[123]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-123_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p124",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p124-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p124",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-124.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[124]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-124_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p125",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p125-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p125",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-125.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[125]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-125_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p126",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p126-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p126",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-126.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[126]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-126_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p127",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p127-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p127",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-127.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[127]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-127_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p128",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p128-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p128",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-128.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[128]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-128_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p129",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p129-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p129",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-129.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[129]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-129_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p130",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p130-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p130",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-130.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[130]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-130_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p131",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p131-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p131",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-131.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[131]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-131_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p132",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p132-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p132",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-132.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[132]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-132_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p133",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p133-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p133",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-133.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[133]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-133_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p134",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p134-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p134",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-134.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[134]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-134_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p135",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p135-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p135",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-135.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[135]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-135_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p136",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p136-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p136",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-136.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[136]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-136_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p137",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p137-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p137",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-137.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[137]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-137_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p138",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p138-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p138",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-138.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[138]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-138_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p139",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p139-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p139",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-139.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[139]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-139_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p140",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p140-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p140",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-140.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[140]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-140_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p141",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p141-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p141",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-141.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[141]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-141_r25.jpg"
+                    },
+                    "width": 2860
+                },
+                {
+                    "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p142",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/hi/iiif/29-01-0014/annotation/p142-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/hi/iiif/29-01-0014/canvas/p142",
+                            "resource": {
+                                "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-142.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "width": 2860
+                            }
+                        }
+                    ],
+                    "label": "[142]",
+                    "thumbnail": {
+                        "@id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-142_r25.jpg"
+                    },
+                    "width": 2860
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F29%2F14%2F14-001_r25.jpg",
+    "viewingDirection": "right-to-left"
+}
