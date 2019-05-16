@@ -40,9 +40,10 @@ for file in files:
         "@id": json_dict["@id"],
         "@type": "sc:Manifest",
         "label": json_dict["label"],
-        "description": json_dict["description"],
         "thumbnail": json_dict["thumbnail"]
     }
+    if "description" in json_dict:
+        m["description"] = json_dict["description"]
     manifests.append(m)
 
 f1 = open("../"+config["dump_path"]+"/collection.json", 'w')
