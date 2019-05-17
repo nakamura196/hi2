@@ -2401,14 +2401,14 @@
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/02-11-0別巻１/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本史料』・11編・別巻１",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F1191%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/02-11-0別巻２/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本史料』・11編・別巻２",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F02%2F1192%2F0001_r25.jpg"
         },
@@ -4466,245 +4466,245 @@
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-01-0001/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・上田藩村明細帳・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0101%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-01-0002/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・上田藩村明細帳・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0102%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-01-0003/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・上田藩村明細帳・3",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0103%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-02-0001/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・肥後藩人畜改帳・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0201%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-02-0002/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・肥後藩人畜改帳・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0202%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-02-0003/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・肥後藩人畜改帳・3",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0203%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-02-0004/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・肥後藩人畜改帳・4",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0204%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-02-0005/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・肥後藩人畜改帳・5",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0205%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-03-0001/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・唐通事会所日録・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0301%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-03-0002/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・唐通事会所日録・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0302%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-03-0003/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・唐通事会所日録・3",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0303%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-03-0004/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・唐通事会所日録・4",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0304%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-03-0005/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・唐通事会所日録・5",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0305%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-03-0006/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・唐通事会所日録・6",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0306%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-03-0007/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・唐通事会所日録・7",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0307%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-04-0001/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・小倉藩人畜改帳・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0401%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-04-0002/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・小倉藩人畜改帳・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0402%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-04-0003/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・小倉藩人畜改帳・3",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0403%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-04-0004/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・小倉藩人畜改帳・4",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0404%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-04-0005/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・小倉藩人畜改帳・5",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0405%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-05-0001/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸問屋再興調・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0501%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-05-0002/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸問屋再興調・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0502%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-05-0003/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸問屋再興調・3",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0503%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-05-0004/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸問屋再興調・4",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0504%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-05-0005/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸問屋再興調・5",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0505%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-05-0006/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸問屋再興調・6",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0506%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-05-0007/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸問屋再興調・7",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0507%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-05-0008/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸問屋再興調・8",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0508%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-05-0009/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸問屋再興調・9",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0509%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-05-0010/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸問屋再興調・10",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0510%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-05-0011/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸問屋再興調・11",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0511%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-05-0012/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸問屋再興調・12",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0512%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-05-0013/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸問屋再興調・13",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0513%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-05-0014/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸問屋再興調・14",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0514%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-05-0015/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸問屋再興調・15",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0515%2F0001_r25.jpg"
         },
@@ -5089,14 +5089,14 @@
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-09-0001/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸宗末寺帳・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0901%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-09-0002/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・諸宗末寺帳・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F0902%2F0001_r25.jpg"
         },
@@ -5278,63 +5278,63 @@
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-11-0001/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・編脩地誌備用典籍解題・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1101%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-11-0002/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・編脩地誌備用典籍解題・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1102%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-11-0003/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・編脩地誌備用典籍解題・3",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1103%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-11-0004/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・編脩地誌備用典籍解題・4",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1104%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-11-0005/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・編脩地誌備用典籍解題・5",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1105%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-11-0006/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・編脩地誌備用典籍解題・6",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1106%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-12-0001/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・近藤重蔵蝦夷地関係史料・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1201%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-12-0002/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・近藤重蔵蝦夷地関係史料・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1202%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/07-12-0003/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『大日本近世史料』・近藤重蔵蝦夷地関係史料・3",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F07%2F1203%2F0001_r25.jpg"
         },
@@ -5747,35 +5747,35 @@
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/15-01-0001/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『維新史』・維新史・1",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F15%2F0001%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/15-01-0002/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『維新史』・維新史・2",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F15%2F0002%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/15-01-0003/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『維新史』・維新史・3",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F15%2F0003%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/15-01-0004/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『維新史』・維新史・4",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F15%2F0004%2F0001_r25.jpg"
         },
         {
             "@id": "https://nakamura196.github.io/hi2/iiif/15-01-0005/manifest.json",
             "@type": "sc:Manifest",
-            "description": NaN,
+            
             "label": "『維新史』・維新史・5",
             "thumbnail": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata%2F850%2F8500%2F15%2F0005%2F0001_r25.jpg"
         },
