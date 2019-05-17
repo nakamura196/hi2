@@ -75,7 +75,7 @@ for j in range(3, r_count):
 
     manifest_id = subject.split("/")[-2]
 
-    dir = "../"+config["manifest_path"]+"/manifest/"+manifest_id
+    dir = "../"+config["manifest_path"]+"/"+manifest_id
     os.makedirs(dir, exist_ok=True)
 
     file = dir+"/manifest.json"
